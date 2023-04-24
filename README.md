@@ -1,1 +1,1 @@
-# digit-lis-drogok
+# digitalis-drogok
